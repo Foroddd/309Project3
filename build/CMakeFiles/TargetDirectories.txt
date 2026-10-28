@@ -1,0 +1,8 @@
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/harness_core.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/miniharness.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/test_p2.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/test_p3.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/test_loop.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/test.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gobli/Downloads/309Project3/build/CMakeFiles/rebuild_cache.dir
